@@ -13,12 +13,7 @@ K-means clustering with optional image pooling and color diversity filtering.
 - Export results to JSON and PNG formats
 
 ## Installation
-
-```bash
-pip install colr
-```
-
-Or install from source:
+Install from source:
 
 ```bash
 git clone https://github.com/tiam4tt/colr.git
